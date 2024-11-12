@@ -1,0 +1,72 @@
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\appsettings.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.exe
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Data\PropertyValuesTest.csv
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.deps.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.runtimeconfig.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.pdb
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\CsvHelper.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.csproj.AssemblyReference.cache
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.AssemblyInfoInputs.cache
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.AssemblyInfo.cs
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.csproj.CoreCompileInputs.cache
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.PropertyApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyApi.props
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyApi.props
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyApi.props
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\scopedcss\bundle\PropertyApi.styles.css
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\Property.9BC985C5.Up2Date
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\refint\PropertyApi.dll
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.pdb
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.genruntimeconfig.cache
+C:\Domain\New folder\Domain-edited\Domain\PrropertyApi\obj\Debug\net8.0\ref\PropertyApi.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\appsettings.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.exe
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Data\PropertyValuesTest.csv
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.deps.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.runtimeconfig.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\PropertyApi.pdb
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\CsvHelper.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.csproj.AssemblyReference.cache
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.AssemblyInfoInputs.cache
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.AssemblyInfo.cs
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.csproj.CoreCompileInputs.cache
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.PropertyApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.build.PropertyApi.props
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PropertyApi.props
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PropertyApi.props
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\scopedcss\bundle\PropertyApi.styles.css
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\Property.9BC985C5.Up2Date
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\refint\PropertyApi.dll
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.pdb
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\PropertyApi.genruntimeconfig.cache
+C:\Domain\lastUpdate\Domain\PrropertyApi\obj\Debug\net8.0\ref\PropertyApi.dll
